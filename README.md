@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Nicholas Burns
-- 👀 I’m interested in web app development
-- 🌱 I’m currently learning SpringBoot and React
 - 📫 How to reach me: nickbs114@protonmail.com
 
 <!---
